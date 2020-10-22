@@ -11,3 +11,7 @@ Project to research and document about technologies to develop podStationMobile
 - [Antennapod](https://antennapod.org/) - Podcast Aggregator for Android
 - [gpodder.net](https://github.com/gpodder/mygpo) - Open directory with support for user information, accessible with an API
 - https://podlove.org/ 
+
+## Resources
+
+- https://www.rssboard.org/rss-specification
